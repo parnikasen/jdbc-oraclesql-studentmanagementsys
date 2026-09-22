@@ -1,0 +1,6 @@
+{
+  "name": "Student Management System",
+  "description": "Database-driven student management application with Oracle database JDBC integration, query logging, and complete record CRUD operations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
